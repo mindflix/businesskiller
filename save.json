@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "username": "sd"
+        },
+        {
+            "id": 1,
+            "username": "dsds"
+        }
+    ],
+    "config": {}
+}
